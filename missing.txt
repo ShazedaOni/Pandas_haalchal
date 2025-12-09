@@ -1,0 +1,9 @@
+How to detect missing data
+1. NaN(Not a Number)
+None (for object data types)
+
+isnull()[method use korbo missing data ber korar jnno]
+True = NaN is missing
+False = value is present
+
+

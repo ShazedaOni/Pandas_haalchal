@@ -1,0 +1,14 @@
+10
+20
+NaN (probably 30)
+40
+50
+
+linear,polynomial interpulation 
+
+1- Preserve data integrity
+2- smooth trends
+3- avoid data loss
+
+interpulate() - interpulate method 
+(eta data dekhe ekta estimate value insert kore dey,prevoius or after value er upor base kore)
