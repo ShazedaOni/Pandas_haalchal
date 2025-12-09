@@ -4,7 +4,7 @@ NaN (probably 30)
 40
 50
 
-linear,polynomial interpulation 
+linear, polynomial, time - 3 types interpulation 
 
 1- Preserve data integrity
 2- smooth trends
@@ -12,3 +12,4 @@ linear,polynomial interpulation
 
 interpulate() - interpulate method 
 (eta data dekhe ekta estimate value insert kore dey,prevoius or after value er upor base kore)
+
